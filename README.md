@@ -1,5 +1,4 @@
-Hello 
-I am Alkanoid
-A linux enthusiast 
-Thats all
-Bye!
+Hello There. 
+I am Alkanoid. 
+There is one thing you must know. 
+`I use Arch, btw.`
